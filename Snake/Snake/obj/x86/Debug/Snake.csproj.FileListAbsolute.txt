@@ -16,3 +16,10 @@ C:\Users\Никитин\Desktop\ДЗ сделать\Snake\Snake\bin\Debug\Window
 C:\Users\Никитин\Desktop\ДЗ сделать\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
 C:\Users\Никитин\Desktop\ДЗ сделать\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
 C:\Users\Никитин\Desktop\ДЗ сделать\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\Никитин\Desktop\Sleep\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
